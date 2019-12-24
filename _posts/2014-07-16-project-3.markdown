@@ -1,0 +1,21 @@
+---
+title: Healthcare
+subtitle: 
+layout: default
+modal-id: 3
+date: 20-12-2019
+img: services-grid/healthcare.jpg
+thumbnail: services-grid/healthcare.jpg
+alt: healthcare-image
+project-date:
+client:
+category:
+description:
+---
+**Goodthink Associates** has carefully evaluated a few start-up businesses in the healthcare sector:
+
+-   **_Medical Imaging and Diagnostics_**: we have launched the first portal in UK that is dedicated to imaging and diagnostic services. Our innovative platform helps patients and health professionals to quickly search and book any imaging and diagnostic service in their area.
+
+-   **_Medical Tourism_**: we have invested in both affordable and high-end medical tourism industry that is growing at a rate of more than 25% every year. We have tie-ups with the best hospitals worldwide for any medical treatments and our innovative platform helps you quickly shortlist the appropriate options.
+
+-   **_Clinical Products_**: we have patented a few clinical products that has the potential to capture significant market-share within few years.

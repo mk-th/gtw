@@ -1,0 +1,27 @@
+---
+title: Property
+subtitle: 
+layout: default
+modal-id: 4
+date: 20-12-2019
+img: services-grid/property.jpg
+thumbnail: services-grid/property.jpg
+alt: property-image
+project-date:
+client:
+category:
+description:
+---
+**Goodthink Associates** retains experts active in residential property development since 1978 and in property investment since 1992.
+
+-   **Design**: We use in-house architectural and planning expertise, focussing on design-led schemes across all property sectors.
+
+-   **Planning**: We specialise in buying land without planning permission and have a 100% success record in obtaining planning consent.
+
+-   **Construction**: We effectively coordinate the engineers, architects and builders to produce a successful construction, taking account of scheduling, budgeting, materials, safety and the environmental impact.
+
+-   **Marketing**: We provide an extensive range of PR and marketing advice, to include research and advertising, digital marketing and branding.
+
+-   **Method**: How we work is as important as what we do. For each property development project, one partner leads the team dealing with planning, procurement, funding, construction and disposal.
+
+Our property development experts are here to ensure your objectives are met.

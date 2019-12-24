@@ -1,0 +1,23 @@
+---
+title: Home Loans
+subtitle:
+layout: default
+modal-id: 5
+date: 20-12-2019
+img: services-grid/home-loans.jpg
+thumbnail: services-grid/home-loans.jpg
+alt: home-loans-image
+project-date:
+client:
+category:
+description: 
+---
+**Goodthink Associates** retains experts active in the home loan sector for three decades. Specific areas of expertise include the following:
+
+-   **Introductory Loans** : Introductory or honeymoon rates give the customer a special reduced rate – fixed or variable – for the first part of their loan contract. Generally the rate reverts to a standard or special variable rate when the initial period ends. The benefit to clients is that repayments are lower during the honeymoon period, giving breathing space while a home is extended or renovated.
+
+-   **Variable Rate Loans** : Most Lenders offer a variable rate loan, which can vary with time, depending on the market. Variable loans include basic, standard, or revolving line-of-credit products and are traditionally the most flexible. Variable loans generally allow clients to offset their mortgage, make extra repayments and have access to redraw. They also allow the loan to be redeemed early.
+
+-   **Fixed Rate Loans** : Fixed loans generally allow a borrower to lock in an interest rate for a particular period of time, normally 1-5 years. Customers who choose a fixed rate know that their repayments will not change during this period, no matter if interest rates rise or fall. Features such as redraw or mortgage offset are usually not allowed during this initial period.
+
+-   **Bridging Loans**: Bridging finance allows a borrower to purchase a new property while he waits for his current property to sell. This can be useful if the settlement date of the new property purchase takes place several weeks before the sale of the original property, helping to fill that gap.
