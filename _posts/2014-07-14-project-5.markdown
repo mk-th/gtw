@@ -1,5 +1,5 @@
 ---
-title: Home Loans
+title: Mortgage Lending
 subtitle:
 layout: default
 modal-id: 5
@@ -12,7 +12,7 @@ client:
 category:
 description: 
 ---
-**Goodthink Associates** retains experts active in the home loan sector for three decades. Specific areas of expertise include the following:
+**Goodthink Associates** retains experts active in the mortgage lending sector for three decades. Specific areas of expertise include the following:
 
 -   **Introductory Loans** : Introductory or honeymoon rates give the customer a special reduced rate – fixed or variable – for the first part of their loan contract. Generally the rate reverts to a standard or special variable rate when the initial period ends. The benefit to clients is that repayments are lower during the honeymoon period, giving breathing space while a home is extended or renovated.
 
