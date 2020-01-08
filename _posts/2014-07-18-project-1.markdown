@@ -12,7 +12,7 @@ client:
 category:
 description:
 ---
-**Goodthink Associates** has extensive experience in the banking sector, providing a full service in the following areas:
+**Goodthink Associates** has extensive experience in the banking sector, providing consultancy in the following areas:
 
  - **_Commercial banking_**: loans and other services provided to large companies as well as to small and medium-sized enterprises. These may include current and deposit accounts, foreign exchange trading, cash handling, money transfers and collections, payroll payments, safe custody and related activities.
 

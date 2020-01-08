@@ -20,4 +20,4 @@ description:
 
 -   **Fixed Rate Loans** : Fixed loans generally allow a borrower to lock in an interest rate for a particular period of time, normally 1-5 years. Customers who choose a fixed rate know that their repayments will not change during this period, no matter if interest rates rise or fall. Features such as redraw or mortgage offset are usually not allowed during this initial period.
 
--   **Bridging Loans**: Bridging finance allows a borrower to purchase a new property while he waits for his current property to sell. This can be useful if the settlement date of the new property purchase takes place several weeks before the sale of the original property, helping to fill that gap.
+-   **Bridging Loans**: Bridging Loans: Bridging finance allows a borrower to purchase a new property while he or she waits for his current property to sell. This can be useful if the settlement date of the new property purchase takes place several weeks before the sale of the original property, helping to fill that gap.
