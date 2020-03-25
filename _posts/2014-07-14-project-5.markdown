@@ -1,23 +1,25 @@
 ---
-title: Mortgage Lending
+title: Commodity Trading
 subtitle:
 layout: default
 modal-id: 5
 date: 20-12-2019
-img: services-grid/home-loans.jpg
-thumbnail: services-grid/home-loans.jpg
-alt: home-loans-image
+img: services-grid/commodity-trading.jpg
+thumbnail: services-grid/commodity-trading.jpg
+alt: commodity-trading-image
 project-date:
 client:
 category:
 description: 
 ---
-**Goodthink Associates** retains experts active in the mortgage lending sector for three decades. Specific areas of expertise include the following:
+**Goodthink Associates** retains experts active in the trading sector for three decades. Specific areas of expertise include the following:
 
--   **Introductory Loans** : Introductory or honeymoon rates give the customer a special reduced rate – fixed or variable – for the first part of their loan contract. Generally the rate reverts to a standard or special variable rate when the initial period ends. The benefit to clients is that repayments are lower during the honeymoon period, giving breathing space while a home is extended or renovated.
+- Buying and selling physical commodities such as construction materials, foodstuffs and automotive products.
 
--   **Variable Rate Loans** : Most Lenders offer a variable rate loan, which can vary with time, depending on the market. Variable loans include basic, standard, or revolving line-of-credit products and are traditionally the most flexible. Variable loans generally allow clients to offset their mortgage, make extra repayments and have access to redraw. They also allow the loan to be redeemed early.
+-  Trying to anticipate trends as well as to arbitrage opportunities.
 
--   **Fixed Rate Loans** : Fixed loans generally allow a borrower to lock in an interest rate for a particular period of time, normally 1-5 years. Customers who choose a fixed rate know that their repayments will not change during this period, no matter if interest rates rise or fall. Features such as redraw or mortgage offset are usually not allowed during this initial period.
+-  Working to secure a supply of raw materials for a business or industry, to help create liquidity in international markets and/or to invest speculatively.
 
--   **Bridging Loans**: Bridging finance allows a borrower to purchase a new property whilst waiting for a current property to sell. This can be useful if the settlement date of the new property purchase takes place several weeks before the sale of the original property, helping to fill that gap.
+-  We have traded goods as diverse as cocoa, coffee, cereals, sugar, oil, natural gas and precious metals. The company has a particular specialism in related services: shipping and logistics, inspection and certification, insurance and trade finance.
+
+-  Margins are often relatively slim yet these are compensated by the relatively high volumes transacted: absolute revenues are a direct function of the volume.
